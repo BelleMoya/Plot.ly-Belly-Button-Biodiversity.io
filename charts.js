@@ -111,11 +111,11 @@ function init() {
             range: [0, 10]
         },
         steps: [
-            {range: [0,2], color: '#e81123'},
-            {range: [2,4], color: '#ff8c00'},
-            {range: [4,6], color: '#fff100'},
-            {range: [6,8], color: '#00b294'},
-            {range: [8,10], color: '#009e49'}   
+            {range: [0,2], color: '#00FF00'},
+            {range: [2,4], color: '#00FFFF'},
+            {range: [4,6], color: '#00CCFF'},
+            {range: [6,8], color: '#FFFF00'},
+            {range: [8,10], color: '#FFCC00 '}   
         ],
     }
   };
